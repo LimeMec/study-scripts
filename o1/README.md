@@ -13,7 +13,8 @@ Detta repo innehåller övningar ur kursen Applied Script.
 
 ## Kodbeskrivning:
 
-**u1_invent.sh**  
+**o1_invent.sh**  
+
 Ett skript som inventerar och sammanställer datorns specifikationer, både hårdvara och mjukvara. 
 Inventeringen utförs endast av de standardpaket som redan finns förinstallerade på de allra flesta Linux-distributioner.
 Skriptet tar även hänsyn till användare och kan utföra sin inventering  utan förhöjda privilegier, inget *sudo*-kommando behövs. 
@@ -32,6 +33,8 @@ Följande inventeras:
 
 För att köra skripten (.sh-fil) navigera till mappen.
 
+
+
 **Få skriptet körbart (för .sh-filer):**
 ```bash
 chmod +x skript_namn.sh
@@ -45,6 +48,7 @@ chmod +x skript_namn.sh
 ## Krav:
 - [Python 3.x](www.python.org)
 - Bash (finns inbyggt i Linux/macOS, Windows kan använda WSL eller Git Bash)
+
 
 
 
