@@ -10,7 +10,7 @@ Min samling av skript som jag skapat under min utbildning "IT- och Cybersäkerhe
 Detta repo innehåller övningar ur kursen Applied Script.
 
 **Mapp:**
-/o1 o1_invet.sh
+/o1 o1_invent.sh
 
 
 
