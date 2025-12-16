@@ -1,11 +1,12 @@
 
-# Study Scripts <br> IT- och Cybersecurity @ Frans Schartus Handelsinstitut  
+# Study Scripts: <br> IT- och Cybersecurity @ Frans Schartus Handelsinstitut  
   
   
 
 ## Innehåll:  
 
 Min samling av script som jag skapat under min utbildning "It- och Cybersäkerhet".  
+  
 Kurs: Applied Script 
   
   
