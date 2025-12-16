@@ -1,5 +1,5 @@
 
-# Study Scripts: IT- och Cybersecurity @ Frans Schartus Handelsinstitut
+# Study Scripts:  IT- och Cybersecurity @ Frans Schartus Handelsinstitut
 
 Min samling av skript som jag skapat under min utbildning "IT- och Cybersäkerhet".
 
@@ -12,7 +12,8 @@ Detta repo innehåller övningar ur kursen Applied Script.
 **Mapp:**  
 /o1 scanning.sh  
 /o2 md5-hascher.py, md5-hashcat.sh  
-/o3 av-test.py  
+/o3 av-test.py   
+
   
   
   

@@ -17,8 +17,8 @@ upptäcker, blockerar eller karantäniserar hot.
 Den testfil som skapas innehåller en antivirus-signatur vilket gör att scriptet kan simulera ett
 virus utan att riskera att skada systemet.
 Signaturen är baserad på den välkända EICAR AV TEST, skapad av *European Institute for Computer
-Anti-Virus Research*, som är helt ofarligt men ska upptäckas av samtliga antivirusprogram.
-[EICAR](https://www.eicar.org)
+Anti-Virus Research, [EICAR](https://www.eicar.org), som är helt ofarligt men ska upptäckas av 
+samtliga antivirusprogram.
 
 Detektionen verifieras genom att granska Windows loggbok (Event Viewer);
 Öppna Program- och tjänsteloggar (Application and Services Logs)
@@ -30,7 +30,7 @@ Detektionen verifieras genom att granska Windows loggbok (Event Viewer);
 
 **VARNING: Kör inte detta script i en produktionsmiljö med central loggning eller aktiv XDR.
 Även om EICAR AV TEST inte skapar någon skada kan den trigga larm, blockeringar eller notifieringar
-till SOC/NOC.
+till SOC/NOC.**
 
 
 
