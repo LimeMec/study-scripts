@@ -1,25 +1,22 @@
 
-# Study Scripts: IT- och Cybersecurity @ Frans Schartus Handelsinstitut
+# Study Scripts: <br> IT- och Cybersecurity @ Frans Schartus Handelsinstitut
 
-Min samling av skript som jag skapat under min utbildning "IT- och Cybersäkerhet"
+Min samling av script som jag skapat under min utbildning "IT- och Cybersäkerhet"  
+  
+Kurs: Applied Script
 
 
 
 ## Kodbeskrivning:
 
-**md5-hasher.py**  
+<u>**md5-hasher.py**  </u> <br> Ett modifierat Python-script som genererar slumpmässiga numeriska lösenord och ger output med en lista av 10st hashes av lämplig längd för att motstå attacker av rainbow tables.
 
-Ett modifierat Python-script som genererar slumpmässiga numeriska lösenord och ger output med en lista av 10st hashes av lämplig längd för att motstå attacker av rainbow tables.
-
-**md5-hashcat.sh**
-Bash-script som kör Haschat mot en hashfil med valfri mask för att knäcka MD5-hashar. Scriptet kontrollerarinstallation av hashcat och startar en mask-attack med angiva parametrar.
+<u>**md5-hashcat.sh**</u> <br> Bash-script som kör Haschat mot en hashfil med valfri mask för att knäcka MD5-hashar. Scriptet kontrollerarinstallation av hashcat och startar en mask-attack med angiva parametrar.
 
 
-**mina_hashar.txt**
-Textfil innehållande de 10st hashes som md5-hasher.py genererar.
+<u>**mina_hashar.txt**</u> <br> Textfil innehållande de 10st hashes som md5-hasher.py genererar.
 
-**screenshot.png**
-Screenshot på resultatet efter kört md5-hashcat.sh
+<u>**screenshot.png**</u> <br> Screenshot på resultatet efter kört md5-hashcat.sh
 
 
 
