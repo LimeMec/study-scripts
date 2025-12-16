@@ -1,7 +1,9 @@
 
-# Study Scripts: IT- och Cybersecurity @ Frans Schartus Handelsinstitut
+# Study Scripts: <br> IT- och Cybersecurity @ Frans Schartus Handelsinstitut
 
-Min samling av skript som jag skapat under min utbildning "IT- och Cybersäkerhet".
+Min samling av script som jag skapat under min utbildning "IT- och Cybersäkerhet".  
+  
+Kurs: Applied Script
 
 
 
@@ -43,8 +45,7 @@ chmod +x skript_namn.sh
 - [Python 3.x](www.python.org)
 - Bash (finns inbyggt i Linux/macOS, Windows kan använda WSL eller Git Bash)
 
-
-
+---
 
 Trevligt att just du kikad in här!  
 //LimeMec, Markus Carlsson
