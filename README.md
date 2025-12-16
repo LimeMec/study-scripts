@@ -1,5 +1,5 @@
 
-# Study Scripts: IT- och Cybersecurity @ Frans Schartus Handelsinstitut:
+# Study Scripts: IT- och Cybersecurity @ Frans Schartus Handelsinstitut
 
 Min samling av skript som jag skapat under min utbildning "IT- och Cybersäkerhet".
 
@@ -10,48 +10,14 @@ Min samling av skript som jag skapat under min utbildning "IT- och Cybersäkerhe
 Detta repo innehåller övningar ur kursen Applied Script.
 
 **Mapp:**
-/o1 o1_invent.sh
+/o1 scanning.sh
+/o2 md5-hascher.py, md5-hashcat.sh
 
-
-
-## Kodbeskrivning:
-
-**o1_invent.sh**  
-
-Ett skript som inventerar och sammanställer datorns specifikationer, både hårdvara och mjukvara. 
-Inventeringen utförs endast av de standardpaket som redan finns förinstallerade på de allra flesta Linux-distributioner.
-Skriptet tar även hänsyn till användare och kan utföra sin inventering  utan förhöjda privilegier, inget *sudo*-kommando behövs. 
-
-Följande inventeras:
-- Operativsystem
-- Grafikkort
-- Processor
-- RAM-minne
-- Lagring
-- Nätverk
-
-
-
-## Användning:
-
-För att köra skripten (.sh-fil) navigera till mappen.
-
-
-
-**Få skriptet körbart (för .sh-filer):**
-```bash
-chmod +x skript_namn.sh
-```
-**Köra skriptet:**
-```bash
-./skript_namn.sh
-```
 
 
 ## Krav:
 - [Python 3.x](www.python.org)
 - Bash (finns inbyggt i Linux/macOS, Windows kan använda WSL eller Git Bash)
-
 
 
 

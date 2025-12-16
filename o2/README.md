@@ -13,19 +13,19 @@ Detta repo innehåller övningar ur kursen Applied Script.
 
 ## Kodbeskrivning:
 
-**scanning.sh**  
+**md5-hasher.py**  
 
-Ett skript som inventerar och sammanställer datorns specifikationer, både hårdvara och mjukvara. 
-Inventeringen utförs endast av de standardpaket som redan finns förinstallerade på de allra flesta Linux-distributioner.
-Skriptet tar även hänsyn till användare och kan utföra sin inventering  utan förhöjda privilegier, inget *sudo*-kommando behövs. 
+Ett modifierat Python-script som genererar slumpmässiga numeriska lösenord och ger output med en lista av 10st hashes av lämplig längd för att motstå attacker av rainbow tables.
 
-Följande inventeras:
-- Operativsystem
-- Grafikkort
-- Processor
-- RAM-minne
-- Lagring
-- Nätverk
+**md5-hashcat.sh**
+Bash-script som kör Haschat mot en hashfil med valfri mask för att knäcka MD5-hashar. Scriptet kontrollerarinstallation av hashcat och startar en mask-attack med angiva parametrar.
+
+
+**mina_hashar.txt**
+Textfil innehållande de 10st hashes som md5-hasher.py genererar.
+
+**screenshot.png**
+Screenshot på resultatet efter kört md5-hashcat.sh
 
 
 
