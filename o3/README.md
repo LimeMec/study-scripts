@@ -20,12 +20,9 @@ Signaturen är baserad på den välkända EICAR AV TEST, skapad av *European Ins
 Anti-Virus Research, [EICAR](https://www.eicar.org), som är helt ofarligt men ska upptäckas av 
 samtliga antivirusprogram.
 
-Detektionen verifieras genom att granska Windows loggbok (Event Viewer);
-Öppna Program- och tjänsteloggar (Application and Services Logs)
-- Microsoft
-- Windows
-- Windows Defender
-- Operational
+Detektionen verifieras genom att granska Windows loggbok (Event Viewer);   
+- Öppna Program- och tjänsteloggar (Application and Services Logs)
+- Microsoft > Windows > Windows Defender > Operational
 
 
 **VARNING: Kör inte detta script i en produktionsmiljö med central loggning eller aktiv XDR.
@@ -43,9 +40,10 @@ Kör filen via PowerShell, VS Code eller dubbelklicka på filen (ifall Python ä
 ## Krav:
 
 - [Python](https://www.python.org/downloads/)
-- Windows
+- Windows  
   
   
-
+  
+  
 Trevligt att just du kikad in här!  
 //LimeMec, Markus Carlsson
