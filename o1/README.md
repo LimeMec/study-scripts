@@ -9,10 +9,7 @@ Kurs: Applied Script
 
 ## Kodbeskrivning:
 
-<u>**scanning.sh**</u> 
-
-Ett skript som inventerar och sammanställer datorns specifikationer, både hårdvara och mjukvara. 
-Inventeringen utförs endast av de standardpaket som redan finns förinstallerade på de allra flesta Linux-distributioner.<br>Skriptet tar även hänsyn till användare och kan utföra sin inventering utan förhöjda privilegier, inget *sudo*-kommando behövs. 
+<u>**scanning.sh**</u> <br> Ett skript som inventerar och sammanställer datorns specifikationer, både hårdvara och mjukvara. <br> Inventeringen utförs endast av de standardpaket som redan finns förinstallerade på de allra flesta Linux-distributioner.<br>Skriptet tar även hänsyn till användare och kan utföra sin inventering utan förhöjda privilegier, inget *sudo*-kommando behövs. 
 
 Följande inventeras:
 - Operativsystem
