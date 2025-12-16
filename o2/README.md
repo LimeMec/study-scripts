@@ -1,13 +1,7 @@
 
 # Study Scripts: IT- och Cybersecurity @ Frans Schartus Handelsinstitut
 
-Min samling av skript som jag skapat under min utbildning "IT- och Cybersäkerhet".
-
-
-
-## Innehåll:
-
-Detta repo innehåller övningar ur kursen Applied Script.
+Min samling av skript som jag skapat under min utbildning "IT- och Cybersäkerhet"
 
 
 
@@ -52,5 +46,5 @@ chmod +x skript_namn.sh
 
 
 
-Trevligt att just du kikad in här!
+Trevligt att just du kikad in här!  
 //LimeMec, Markus Carlsson

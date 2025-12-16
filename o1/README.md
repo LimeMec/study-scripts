@@ -5,12 +5,6 @@ Min samling av skript som jag skapat under min utbildning "IT- och Cybersäkerhe
 
 
 
-## Innehåll:
-
-Detta repo innehåller övningar ur kursen Applied Script.
-
-
-
 ## Kodbeskrivning:
 
 **scanning.sh**  
@@ -52,5 +46,5 @@ chmod +x skript_namn.sh
 
 
 
-Trevligt att just du kikad in här!
+Trevligt att just du kikad in här!  
 //LimeMec, Markus Carlsson
