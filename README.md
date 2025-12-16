@@ -1,13 +1,15 @@
 
-# Study Scripts
-# IT- och Cybersecurity @ Frans Schartus Handelsinstitut  
-
-Min samling av skript som jag skapat under min utbildning "IT- och Cybersäkerhet".  
-Kurs: Applied Script  
+# Study Scripts  
+IT- och Cybersecurity @ Frans Schartus Handelsinstitut  
   
   
 
 ## Innehåll:  
+
+Min samling av skript som jag skapat under min utbildning "It- och Cybersäkerhet".  
+Kurs: Applied Script 
+  
+  
 
 ## Mappar:
 - /o1 > *scanning.sh*
