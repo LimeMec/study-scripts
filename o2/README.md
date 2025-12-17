@@ -9,7 +9,7 @@ Kurs: Applied Script
 
 ## Kodbeskrivning:
 
-<u>**md5-hasher.py**  </u> <br> Ett modifierat Python-script som genererar slumpmässiga numeriska lösenord och ger output med en lista av 10st hashes av lämplig längd för att motstå attacker av rainbow tables. <br> Crackstatoin [CrackStation][https://www.crackstation.net] är en populär onlinetjänst som erbjuder rainbow-table sökningar för att knäcka hashvärden. Rainbow-tables fungerar bara på hashfunktioner utan salt och blir snabbt ineffektiva vid längre eller mer komplexa lösenord.
+<u>**md5-hasher.py**  </u> <br> Ett modifierat Python-script som genererar slumpmässiga numeriska lösenord och ger output med en lista av 10st hashes av lämplig längd för att motstå attacker av rainbow tables. <br> Crackstatoin [CrackStation](https://www.crackstation.net) är en populär onlinetjänst som erbjuder rainbow-table sökningar för att knäcka hashvärden. Rainbow-tables fungerar bara på hashfunktioner utan salt och blir snabbt ineffektiva vid längre eller mer komplexa lösenord.
  
 <u>**md5-hashcat.sh**</u> <br> Bash-script som kör Haschat mot en hashfil med valfri mask för att knäcka MD5-hashar.<br>  Scriptet kontrollerar installation av hashcat och startar en mask-attack med angiva parametrar. <br> Kontrollera i scripet vilka värden som är förinställda (hashfil, mask, hashtyp) och ändra dem vid behov så att de passar din hashfil och den mask-attack du vill köra. <br> När sciptet hittar de matchande
 löenord visas detta i terminalen och spaaras automatiskt i Hashcats egna fil "haschcat.potfile" som
