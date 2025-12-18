@@ -18,7 +18,7 @@ normalt ligger i användarens hemkatalog och fungerar som en historik över tidi
 
 <u>**mina_hashar.txt**</u> <br> Den textfil innehållande de 10st hashes som md5-hasher.py genererar. Hashes som motstår rainbow-table, men kan de motstå Hashcat?
 
-<u>**screenshot.png**</u> <br> Screenshot på resultatet efter kört md5-hashcat.sh mot den genererade textfilen.  <br> Här kan man kan utläsa i fätet "Recovered: 10/10" att samtliga tio genererade hashvärden har hittats och matchats med sina ursprungliga lösenord. < br> Hashcat kan användas som ett verktyg för att återställa förlorade eller bortglömda lösenord i testmiljöer. Resultatet bekräftar också att att de lösenord som scriptet genererar
+<u>**screenshot.png**</u> <br> Screenshot på resultatet efter kört md5-hashcat.sh mot den genererade textfilen.  <br> Här kan man kan utläsa i fätet "Recovered: 10/10" att samtliga tio genererade hashvärden har hittats och matchats med sina ursprungliga lösenord. <br> Hashcat kan användas som ett verktyg för att återställa förlorade eller bortglömda lösenord i testmiljöer. Resultatet bekräftar också att att de lösenord som scriptet genererar
 ligger inom den mask och sökmetod som anvöndes vid körningen.
 
 
