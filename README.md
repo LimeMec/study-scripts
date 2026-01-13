@@ -12,9 +12,9 @@ Kurs: Applied Script
   
 
 ## Mappar:
-- /o1 > *scanning.sh*
-- /o2 > *md5-hascher.py, md5-hashcat.sh*
-- /o3 > *av-test.py*   
+- o1/*scanning.sh*
+- o2/*md5-hascher.py, md5-hashcat.sh*
+- o3/*av-test.py*   
 
 ---  
 
